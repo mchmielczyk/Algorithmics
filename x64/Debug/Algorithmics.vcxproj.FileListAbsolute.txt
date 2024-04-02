@@ -1,2 +1,0 @@
-D:\repos\Prata\Studia\Algorithmics\x64\Debug\Algorithmics.exe
-D:\repos\Prata\Studia\Algorithmics\Algorithmics\x64\Debug\Algorithmics.exe

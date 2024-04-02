@@ -1,0 +1,13 @@
+﻿  Algorithmics.cpp
+D:\repos\Prata\Studia\Algorithmics\Algorithmics\weirdPrimeGen.h(79,8): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+D:\repos\Prata\Studia\Algorithmics\Algorithmics\weirdPrimeGen.h(86,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\repos\Prata\Studia\Algorithmics\Algorithmics\weirdPrimeGen.h(111,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\repos\Prata\Studia\Algorithmics\Algorithmics\weirdPrimeGen.h(113,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\repos\Prata\Studia\Algorithmics\Algorithmics\weirdPrimeGen.h(128,29): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\repos\Prata\Studia\Algorithmics\Algorithmics\weirdPrimeGen.h(146,18): warning C4244: "+=": konwersja z "_Ty" do "int", możliwa utrata danych
+          with
+          [
+              _Ty=__int64
+          ]
+D:\repos\Prata\Studia\Algorithmics\Algorithmics\weirdPrimeGen.h(148,28): warning C4267: "return": konwersja z "size_t" do "int", możliwa utrata danych
+  Algorithmics.vcxproj -> D:\repos\Prata\Studia\Algorithmics\Algorithmics\x64\Debug\Algorithmics.exe

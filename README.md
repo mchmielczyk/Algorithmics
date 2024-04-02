@@ -1,0 +1,2 @@
+# Algorithmics
+Codewars excercises

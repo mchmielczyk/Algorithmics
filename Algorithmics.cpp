@@ -1,7 +1,7 @@
-﻿#include "bigAdd.h"
+﻿#include "tToTime.h"
 #include <iostream>
 int main()
 {
-    add("", "5");
+    std::cout << format_duration(3662) << std::endl;
     return 0;
 }
